@@ -1,5 +1,8 @@
 # Analyzing the effectiveness of substitution models for token distribution
 
+This repository is used to gather and manipulate data for a miltiple regression analysis.
+The dataset was then imported in SPSS, where the real regression analysis took place
+
 ## Data
 
 ### Price Data
@@ -22,7 +25,7 @@ The merged data can be found in the merged.csv file
 
 
 ### Process
-The process after the data collection is documented in the main.ipynb notebook# token-subsidy-analysis
-# token-airdrop-analysis
-# token-airdrop-analysis
-# token-airdrop-analysis
+The process after the data collection is documented in the main.ipynb notebook where the data is just merged.
+A quick regression was done, just to get a better overview. The real regression analysis took place in SPSS.
+
+
